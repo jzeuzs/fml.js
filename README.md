@@ -34,11 +34,11 @@ import fml from '@1chi/fml.js'; // import syntax
 const fml = require('@1chi/fml.js').default; // require()
 
 // Async/Await
-(async () => {
+async () => {
 	const quote = await fml();
 
 	console.log(quote);
-})
+};
 
 // .then()
 fml().then((quote) => console.log(quote));
