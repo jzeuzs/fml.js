@@ -1,5 +1,5 @@
 {
-	"name": "fml",
+	"name": "fml.js",
 	"version": "1.0.0",
 	"description": "Get a random fml quote!",
 	"main": "./dist/cjs/index.js",
